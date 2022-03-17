@@ -1,2 +1,2 @@
 # Portfolio
-https://github.com/Taeran-An/Portfolio.git
+https://taeran-an.github.io/Portfolio/
